@@ -12,7 +12,7 @@ using namespace std;
   void Teacher();
   void Student();
   void Public();
-
+/*******************STUDENT class**********************************/
 class STUDENT{
       private:
       char name[50];
@@ -747,3 +747,4 @@ int main()
      getch();
      return 0;
 }
+/***************************FUNCTION ENDS***************************/
