@@ -7,7 +7,7 @@
 
 using namespace std;
 
-/********************DECLARING FUNCTION HEADERS********************/
+/***********************DECLARING FUNCTION HEADERS***********************/
   void Password();
   void Teacher();
   void Student();
